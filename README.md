@@ -2,7 +2,7 @@
 
 #### Pre-requesties
 
-- MySQl
+- MySQL
   
 - Python 3
   
